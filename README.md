@@ -48,3 +48,4 @@ enum weekend {SAT, SUN};
 
 ### references
 - https://cplusplus.com/doc/tutorial/
+- https://github.com/mortennobel/cpp-cheatsheet
